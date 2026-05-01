@@ -10,7 +10,7 @@ Courses
 Enrollments
 Salaries
 Projects
-What I Practiced
+** What I Practiced
 SELECT and WHERE
 IN, BETWEEN, NOT IN
 GROUP BY
